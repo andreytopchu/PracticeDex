@@ -1,0 +1,8 @@
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\ICloneable\ICloneable\bin\Debug\ICloneable.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\ICloneable\ICloneable\bin\Debug\ICloneable.pdb
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\ICloneable\ICloneable\obj\x86\Debug\ICloneable.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\ICloneable\ICloneable\obj\x86\Debug\ICloneable.pdb
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\ICloneable\ICloneable\obj\x86\Debug\ICloneable.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\ICloneable\ICloneable\bin\Debug\ICloneable.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\ICloneable\ICloneable\bin\Debug\ICloneable.pdb
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\ICloneable\ICloneable\obj\x86\Debug\ICloneable.pdb

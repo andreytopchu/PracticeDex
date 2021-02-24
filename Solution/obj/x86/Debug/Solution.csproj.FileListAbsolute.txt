@@ -1,0 +1,15 @@
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\Solution\bin\Debug\Solution.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\Solution\bin\Debug\Solution.pdb
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\Solution\obj\x86\Debug\Solution.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\Solution\obj\x86\Debug\Solution.pdb
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\Solution\obj\x86\Debug\Solution.csprojResolveAssemblyReference.cache
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\Solution\bin\Debug\BoxingAndUnboxing.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\Solution\bin\Debug\ICloneable.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\Solution\bin\Debug\IEnumerable_IEnumerator.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\Solution\bin\Debug\OOP.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\Solution\bin\Debug\TypeСonversions.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\Solution\bin\Debug\OOP.pdb
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\Solution\bin\Debug\BoxingAndUnboxing.pdb
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\Solution\bin\Debug\ICloneable.pdb
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\Solution\bin\Debug\IEnumerable_IEnumerator.pdb
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\Solution\bin\Debug\TypeСonversions.pdb

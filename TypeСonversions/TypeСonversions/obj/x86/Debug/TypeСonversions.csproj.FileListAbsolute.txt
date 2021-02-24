@@ -1,0 +1,10 @@
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\TypeСonversions\TypeСonversions\bin\Debug\TypeСonversions.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\TypeСonversions\TypeСonversions\bin\Debug\TypeСonversions.pdb
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\TypeСonversions\TypeСonversions\obj\x86\Debug\TypeСonversions.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\TypeСonversions\TypeСonversions\obj\x86\Debug\TypeСonversions.pdb
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\TypeСonversions\TypeСonversions\obj\x86\Debug\TypeСonversions.csprojResolveAssemblyReference.cache
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\TypeСonversions\TypeСonversions\bin\Debug\TypeСonversions.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\TypeСonversions\TypeСonversions\bin\Debug\TypeСonversions.pdb
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\TypeСonversions\TypeСonversions\obj\x86\Debug\TypeСonversions.csprojResolveAssemblyReference.cache
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\TypeСonversions\TypeСonversions\obj\x86\Debug\TypeСonversions.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\TypeСonversions\TypeСonversions\obj\x86\Debug\TypeСonversions.pdb

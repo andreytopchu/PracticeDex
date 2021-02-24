@@ -1,0 +1,8 @@
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\BoxingAndUnboxing\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\BoxingAndUnboxing\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.pdb
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\BoxingAndUnboxing\BoxingAndUnboxing\obj\x86\Debug\BoxingAndUnboxing.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\BoxingAndUnboxing\BoxingAndUnboxing\obj\x86\Debug\BoxingAndUnboxing.pdb
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\BoxingAndUnboxing\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\BoxingAndUnboxing\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.pdb
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\BoxingAndUnboxing\BoxingAndUnboxing\obj\x86\Debug\BoxingAndUnboxing.exe
+D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\BoxingAndUnboxing\BoxingAndUnboxing\obj\x86\Debug\BoxingAndUnboxing.pdb
