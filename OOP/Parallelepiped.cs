@@ -5,11 +5,11 @@ using System.Text;
 
 namespace OOP
 {
-    class Parallelepiped:Rectangle
+    class Parallelepiped:Figure
     {
         public double Height { get; set; }
 
-        public Parallelepiped(double c, double a, double b):base(a,b)
+        public Parallelepiped(double a, double b,double c ):base(a,b)
         {
             Height = c;
         }
