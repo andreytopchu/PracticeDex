@@ -18,15 +18,13 @@ namespace IEnumerable_IEnumerator
 
             Console.WriteLine("Автомобили в парке:\n");
 
-            //реализация через foreach
             foreach (Car car in carsList)
             {
                 Console.WriteLine(car.Type);
             }
 
-            //реализация через while
             //int i = 0;
-            //while (i<carsArray.Length)
+            //while (i < carsArray.Length)
             //{
             //    Console.WriteLine(carsArray[i].Type);
             //    i++;

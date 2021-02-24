@@ -10,10 +10,15 @@ namespace OOP
         public double Length { get; set; }
         public double Width { get; set; }
         public Figure(double lenght, double width)
-        {            
-            Lenght = lenght;
-            Width = width;
+        {
+            if (lenght > 0 && width > 0)
+            {
+                Length = lenght;
+                Width = width;
+            }
+            else
+                throw new ArgumentException("Ошибка ввода данных!");
         }
-        protected abstract double Square();
+        public abstract double Square();
     }
 }

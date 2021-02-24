@@ -5,26 +5,30 @@ using System.Text;
 
 namespace OOP
 {
-    class Parallelepiped:Figure
+    class Parallelepiped:_3dFigure
     {
-        public double Height { get; set; }
+        public Rectangle Rect1 { get; private set;}
+        public Rectangle Rect2 { get; private set;}
+        public Rectangle Rect3 { get; private set; }
 
-        public Parallelepiped(double a, double b,double c ):base(a,b)
+        public Parallelepiped(double a, double b,double c ):base(a,b,c)
         {
-            Height = c;
+            Rect1 = new Rectangle(a, b);
+            Rect2 = new Rectangle(b, c);
+            Rect3 = new Rectangle(a, c);
         }
 
-        protected override double Square()
+        public override double Square()
         {
-            return (base.Square()*2+Height*base.Length*2+Height*base.Width*2);
+            return Rect1.Square() * 2 + Rect2.Square() * 2 + Rect3.Square() * 2;
         }
 
-        protected double Volume()
+        protected override double Volume()
         {
-            return base.Square() * Height;
+            return base.Height*base.Length*base.Width;
         }
 
-        public override void  PrintInfo()
+        public void PrintInfo()
         {
             if (Length == Width&&Length==Height)
                 Console.WriteLine("Фигура: куб");

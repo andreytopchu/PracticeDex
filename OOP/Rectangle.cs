@@ -8,25 +8,16 @@ namespace OOP
     class Rectangle:Figure
     {
         
-
-        //прямоугольник
         public Rectangle(double a, double b):base(a,b)
         {            
         }
 
-        //квадрат
-        public Rectangle(double a)
-        {
-            Length = a;
-            Width = a;
-        }
-
-        protected override double Square()
+        public override double Square()
         {
             return this.Length * this.Width;
         }
 
-        public virtual void PrintInfo()
+        public void PrintInfo()
         {
             if(Length==Width)
                 Console.WriteLine("Фигура: квадрат");
