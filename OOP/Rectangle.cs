@@ -7,14 +7,11 @@ namespace OOP
 {
     class Rectangle:Figure
     {
-        public double Length { get; set; }
-        public double Width { get; set; }
+        
 
         //прямоугольник
-        public Rectangle(double a, double b)
-        {
-            Length = a;
-            Width = b;
+        public Rectangle(double a, double b):base(a,b)
+        {            
         }
 
         //квадрат
