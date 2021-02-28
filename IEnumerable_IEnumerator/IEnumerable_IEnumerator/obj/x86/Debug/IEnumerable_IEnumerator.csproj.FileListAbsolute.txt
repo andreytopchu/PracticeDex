@@ -1,8 +1,0 @@
-D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\IEnumerable_IEnumerator\IEnumerable_IEnumerator\bin\Debug\IEnumerable_IEnumerator.exe
-D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\IEnumerable_IEnumerator\IEnumerable_IEnumerator\bin\Debug\IEnumerable_IEnumerator.pdb
-D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\IEnumerable_IEnumerator\IEnumerable_IEnumerator\obj\x86\Debug\IEnumerable_IEnumerator.exe
-D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\IEnumerable_IEnumerator\IEnumerable_IEnumerator\obj\x86\Debug\IEnumerable_IEnumerator.pdb
-D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\IEnumerable_IEnumerator\IEnumerable_IEnumerator\bin\Debug\IEnumerable_IEnumerator.exe
-D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\IEnumerable_IEnumerator\IEnumerable_IEnumerator\bin\Debug\IEnumerable_IEnumerator.pdb
-D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\IEnumerable_IEnumerator\IEnumerable_IEnumerator\obj\x86\Debug\IEnumerable_IEnumerator.exe
-D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\IEnumerable_IEnumerator\IEnumerable_IEnumerator\obj\x86\Debug\IEnumerable_IEnumerator.pdb

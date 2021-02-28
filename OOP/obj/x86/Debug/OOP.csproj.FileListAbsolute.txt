@@ -1,5 +1,0 @@
-D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\OOP\bin\Debug\OOP.exe
-D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\OOP\bin\Debug\OOP.pdb
-D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\OOP\obj\x86\Debug\OOP.exe
-D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\OOP\obj\x86\Debug\OOP.pdb
-D:\АНДРЕИНО\универ\4 семестр\Практика C#\Projects\Solution\OOP\obj\x86\Debug\OOP.csprojResolveAssemblyReference.cache
