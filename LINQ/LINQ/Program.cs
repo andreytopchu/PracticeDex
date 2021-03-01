@@ -5,9 +5,9 @@ using System.Text;
 
 namespace LINQ
 {
-    class Program
+   public class Program
     {
-        static void Main(string[] args)
+       public static void Main()
         {
             Random rand = new Random();
             Note[] notes = new Note[100];
