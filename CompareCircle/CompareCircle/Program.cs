@@ -19,7 +19,15 @@ namespace CompareCircle
                 circles.Add(new Circle(radius));
             }
 
+            Console.WriteLine("Начальный список кругов: ");
+            foreach (var circle in circles)
+            {
+                Console.WriteLine(circle.ToString());
+            }
+
             circles.Sort();
+
+            Console.WriteLine("\nОтсортированный список кругов: ");
 
             foreach (var circle in circles)
             {
