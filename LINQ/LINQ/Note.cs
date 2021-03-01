@@ -5,13 +5,13 @@ using System.Text;
 
 namespace LINQ
 {
-   public class Node
+   public class Note
     {
         public string Text { get; private set; }
         public int SerialNumber { get; private set; }
         public DateTime Date { get; private set; }
 
-        public Node(string text, int serialNumber, DateTime date)
+        public Note(string text, int serialNumber, DateTime date)
         {
             if (serialNumber > 0)
             {
