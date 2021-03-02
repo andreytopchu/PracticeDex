@@ -11,14 +11,14 @@ namespace ComparerPersons
         public int Age { get; private set; }
         public string Work { get; private set; }
 
-        public Person(string name, int age, string work)
+        public Person(string name, int age, string work) // проверка name и work на null
         {
             if (age>0)
             {
                 Name = name;
                 Age = age;
                 Work = work;
-            }
+            } // else throw new ArgumentException("Че с возрастом");
         }
 
         public void PrintInfo()

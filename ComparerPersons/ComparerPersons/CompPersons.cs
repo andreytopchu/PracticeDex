@@ -5,10 +5,10 @@ using System.Text;
 
 namespace ComparerPersons
 {
-   public class CompPersons<T>:IComparer<T>
+   public class CompPersons<T>:IComparer<T> // CompPersons -> PersonComparer
         where T: Person
     {
-        public int Compare(T x, T y)
+        public int Compare(T x, T y) // а если x и y null?
         {
             if (x.Age < y.Age)
                 return 1;
