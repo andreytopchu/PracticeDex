@@ -6,7 +6,7 @@ using System.Collections;
 
 namespace IEnumerable_IEnumerator
 {
-    class AutoParkEnum:IEnumerator
+    class AutoParkEnum:IEnumerator //AutoParkEnum -> AutoParkEnumerator
     {
         public Car[] _cars;
         int position = -1;

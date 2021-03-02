@@ -5,7 +5,7 @@ using System.Text;
 
 namespace OOP
 {
-    public abstract class _3dFigure:Figure
+    public abstract class _3dFigure:Figure //считается хорошим тоном ставить пробелы по обе стороны от операторов(здесь и далее):  _3dFigure:Figure -> _3dFigure : Figure
     {
         public double Height { get; private set; }
 

@@ -10,7 +10,7 @@ namespace ICloneableSol
         public string Name { get; set; }
         public int Age { get; set; }
         public Address Address { get; set; }
-
+        //упс.. закоментированный код. Можем от него избавиться?
         //поверхностное клонирование
         //public object Clone()
         //{

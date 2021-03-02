@@ -22,7 +22,7 @@ namespace IEnumerable_IEnumerator
             {
                 Console.WriteLine(car.Type);
             }
-
+            // Давай уберём закомментированный код ниже, создадим экземпляр AutoParkEnum enumerator и сделаем while(enumerator.MoveNext()){...} 
             //int i = 0;
             //while (i < carsArray.Length)
             //{
