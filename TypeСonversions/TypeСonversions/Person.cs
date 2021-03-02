@@ -10,14 +10,14 @@ namespace TypeСonversions
         public string FirstName { get; set; }
         public string SecondName { get; set; }
 
-        public static implicit operator Person(string str)
+        public static implicit operator Person(string str) //Можем проверить аргумент на null?
         {
             string[] words = str.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
             return new Person { FirstName = words[0], SecondName = words[1] };
         }
 
-        public static explicit operator string(Person person)
+        public static explicit operator string(Person person) //Можем проверить аргумент на null?
         {
             string str = person.FirstName + " " + person.SecondName;
             return str;
@@ -28,7 +28,7 @@ namespace TypeСonversions
             return FirstName+" "+SecondName;
         }
 
-        public override bool Equals(object obj)
+        public override bool Equals(object obj) //Можем сначала проверить аргумент на null?
         {
             if (obj.GetType() != this.GetType()) return false;
 

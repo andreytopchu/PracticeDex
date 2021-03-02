@@ -11,7 +11,7 @@ namespace LINQ
         public int SerialNumber { get; private set; }
         public DateTime Date { get; private set; }
 
-        public Note(string text, int serialNumber, DateTime date)
+        public Note(string text, int serialNumber, DateTime date) // проверка text и date на null
         {
             if (serialNumber > 0)
             {

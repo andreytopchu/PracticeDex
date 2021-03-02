@@ -10,9 +10,9 @@ namespace IEnumerable_IEnumerator
     {
         private Car[] _cars;
 
-        public AutoPark(Car[] cars)
+        public AutoPark(Car[] cars) // проверим cars на null? 
         {
-            _cars = new Car[cars.Length];
+            _cars = new Car[cars.Length]; // иначе получим исключение здесь, если cars null
 
             for (int i = 0; i < cars.Length; i++)
             {

@@ -9,7 +9,7 @@ namespace IEnumerable_IEnumerator
     {
         public string Type;
 
-        public Car(string type)
+        public Car(string type) // проверим type на null?
         {
             Type = type;
         }

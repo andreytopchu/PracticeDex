@@ -13,7 +13,7 @@ namespace ICloneableSol
             Person p2 = new Person { Name = "Nick", Age = 20, Address = new Address { Street = "Lenina str.", NumberOfHouse = 20 } };
 
             Person p3 = (Person) p1.Clone();
-
+            //Нужен ли здесь этот комментарий?
             //p1.PrintInfo();
             //p2.PrintInfo();
             //p3.PrintInfo();
