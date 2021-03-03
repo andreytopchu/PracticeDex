@@ -42,7 +42,7 @@ namespace BoxingAndUnboxing
             Console.WriteLine("Потрачено миллисекунд на распаковку элемента типа int: " + stopwatch.ElapsedMilliseconds);
 
 
-            string str = "Привет мир!";
+            string str = "Привет мир!";//
 
             stopwatch.Restart();
             for (int j = 0; j < 100000000; j++)
