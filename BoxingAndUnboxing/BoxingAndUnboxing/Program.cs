@@ -10,7 +10,7 @@ namespace BoxingAndUnboxing
     {
         public static void Main()
         {
-            Stopwatch stopwatch1 = new Stopwatch(); //класс для подсчета времени выоплнения операций // Нам точно необходим этот комментарий?
+            Stopwatch stopwatch1 = new Stopwatch();
             Stopwatch stopwatch2 = new Stopwatch();
             Stopwatch stopwatch3 = new Stopwatch();
             Stopwatch stopwatch4 = new Stopwatch();
@@ -37,8 +37,7 @@ namespace BoxingAndUnboxing
             stopwatch4.Start();
             //распаковка
             str = (string)obj;
-            stopwatch4.Stop();
-            // Почему бы не запустить упаковку и распаковку в цикле но 10000000 повторений, чтобы увидеть результат в миллисекундах?  
+            stopwatch4.Stop();  
 
             Console.WriteLine("Потрачено тактов на упаковку элемента типа int: " + stopwatch1.Elapsed);
             Console.WriteLine("Потрачено тактов на распаковку элемента типа int: " + stopwatch2.Elapsed);
