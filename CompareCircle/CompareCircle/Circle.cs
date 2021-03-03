@@ -23,13 +23,13 @@ namespace CompareCircle
 
         public int CompareTo(object obj)
         {
-            if (obj == null) return 1; // throw new ArgumentException("Аргумент не может быть null");
+            if (obj == null)  throw new ArgumentException("Аргумент не может быть null");
 
-            Circle otherCircle = obj as Circle; // if(obj is Circle) obj as Circle; else throw new ArgumentException("Объект не является кругом"); // так, вроде покороче
-            if (otherCircle != null)
-                return otherCircle.Square.CompareTo(this.Square);
-            else
+            if(obj is Circle) 
+                obj as Circle; 
+            else 
                 throw new ArgumentException("Объект не является кругом");
+            
         }
 
         public override string ToString()
