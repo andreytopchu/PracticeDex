@@ -11,14 +11,21 @@ namespace ComparerPersons
         public int Age { get; private set; }
         public string Work { get; private set; }
 
-        public Person(string name, int age, string work) // проверка name и work на null
+        public Person(string name, int age, string work) 
         {
-            if (age>0)
+            if ( name != null && work != null )
             {
-                Name = name;
-                Age = age;
-                Work = work;
-            } // else throw new ArgumentException("Че с возрастом");
+               if ( age > 0 )
+               {
+                   Name = name;
+                   Age = age;
+                   Work = work;
+               }
+               else 
+                  throw new ArgumentException("Ошибка! Возрат неправдоподобен.");
+            }
+            else
+               throw new ArgumentException("Ошибка! Имя или место работы заданы неверно");
         }
 
         public void PrintInfo()
