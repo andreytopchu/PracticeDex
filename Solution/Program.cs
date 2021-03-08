@@ -8,6 +8,7 @@ using ICloneableSol;
 using IEnumerable_IEnumerator;
 using TypeСonversions;
 using LINQ;
+using FigureLib;
 
 namespace Solution
 {
@@ -24,8 +25,9 @@ restart:         Console.WriteLine("Какое задание хотите за�
             Console.WriteLine("6)Задание по теме №8(IQueryable)");
             Console.WriteLine("7)Задание по теме №9(IComparable)");
             Console.WriteLine("8)Задание по теме №9(2)(IComparer)");
-            Console.WriteLine("9)Выйти из программы");
-            Console.WriteLine("\nВведите число от 1 до 9 для запуска задания: ");
+            Console.WriteLine("9)Сравнение и сортировка фигур");
+            Console.WriteLine("10)Выйти из программы");
+            Console.WriteLine("\nВведите число от 1 до 10 для запуска задания: ");
             int i = Convert.ToInt32(Console.ReadLine());
             switch (i)
             {
@@ -78,6 +80,12 @@ restart:         Console.WriteLine("Какое задание хотите за�
                         break;
                     }
                 case 9:
+                    {
+                        Console.WriteLine("\nСравнение и сортировка фигур\n");
+                        FigureLib.FigureProgram.RunProgram();
+                        break;
+                    }
+                case 10:
                     {
                         return;
                     }
